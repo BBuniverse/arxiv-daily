@@ -46,6 +46,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
   <ol>
     <li><a href=#talking-face>Talking Face</a></li>
     <li><a href=#image-animation>Image Animation</a></li>
+    <li><a href=#motion>Motion</a></li>
+    <li><a href=#low-level>Low Level</a></li>
   </ol>
 </details>
 
@@ -806,6 +808,36 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2018-10-09, **3D model silhouette-based tracking in depth images for puppet suit dynamic video-mapping**, Guillaume Caron et.al., Paper: [http://arxiv.org/abs/1810.03956](http://arxiv.org/abs/1810.03956)
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
+
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+
+## Motion
+
+- 2025-03-13, **Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM**, Yizhou Huang et.al., Paper: [http://arxiv.org/abs/2503.10898](http://arxiv.org/abs/2503.10898)
+- 2025-03-17, **TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction**, Tinghui Li et.al., Paper: [http://arxiv.org/abs/2503.13034](http://arxiv.org/abs/2503.13034)
+- 2025-03-13, **MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation**, Yuxiang Fu et.al., Paper: [http://arxiv.org/abs/2503.09950](http://arxiv.org/abs/2503.09950)
+- 2025-03-10, **LEGO-Motion: Learning-Enhanced Grids with Occupancy Instance Modeling for Class-Agnostic Motion Prediction**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2503.07367](http://arxiv.org/abs/2503.07367)
+- 2025-03-03, **Interpretable Data-Driven Ship Dynamics Model: Enhancing Physics-Based Motion Prediction with Parameter Optimization**, Christos Papandreou et.al., Paper: [http://arxiv.org/abs/2502.18696](http://arxiv.org/abs/2502.18696)
+- 2025-03-17, **InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**, Ruiqi Song et.al., Paper: [http://arxiv.org/abs/2503.13047](http://arxiv.org/abs/2503.13047)
+- 2025-02-24, **HVIS: A Human-like Vision and Inference System for Human Motion Prediction**, Kedi Lyu et.al., Paper: [http://arxiv.org/abs/2502.16913](http://arxiv.org/abs/2502.16913)
+- 2025-03-01, **Enhancing Context-Aware Human Motion Prediction for Efficient Robot Handovers**, Gerard Gómez-Izquierdo et.al., Paper: [http://arxiv.org/abs/2503.00576](http://arxiv.org/abs/2503.00576)
+- 2025-03-15, **DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes**, Runfa Blark Li et.al., Paper: [http://arxiv.org/abs/2503.11979](http://arxiv.org/abs/2503.11979)
+- 2025-03-04, **Controllable Motion Generation via Diffusion Modal Coupling**, Luobin Wang et.al., Paper: [http://arxiv.org/abs/2503.02353](http://arxiv.org/abs/2503.02353)
+
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+
+## Low Level
+
+- 2025-03-20, **UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**, Debabrata Mandal et.al., Paper: [http://arxiv.org/abs/2503.15868](http://arxiv.org/abs/2503.15868)
+- 2025-03-18, **Towards properties of adversarial image perturbations**, Egor Kuznetsov et.al., Paper: [http://arxiv.org/abs/2503.14111](http://arxiv.org/abs/2503.14111)
+- 2025-03-18, **SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**, Yucheng Mao et.al., Paper: [http://arxiv.org/abs/2503.14463](http://arxiv.org/abs/2503.14463)
+- 2025-03-16, **Pathology Image Restoration via Mixture of Prompts**, Jiangdong Cai et.al., Paper: [http://arxiv.org/abs/2503.12399](http://arxiv.org/abs/2503.12399), Code: **[https://github.com/caijd2000/mop](https://github.com/caijd2000/mop)**
+- 2025-03-18, **Intra and Inter Parser-Prompted Transformers for Effective Image Restoration**, Cong Wang et.al., Paper: [http://arxiv.org/abs/2503.14037](http://arxiv.org/abs/2503.14037), Code: **[https://github.com/supersupercong/pptformer](https://github.com/supersupercong/pptformer)**
+- 2025-03-19, **Image Restoration Models with Optimal Transport and Total Variation Regularization**, Weijia Huang et.al., Paper: [http://arxiv.org/abs/2503.14947](http://arxiv.org/abs/2503.14947)
+- 2025-03-17, **From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective**, Chen Zhao et.al., Paper: [http://arxiv.org/abs/2503.13165](http://arxiv.org/abs/2503.13165)
+- 2025-03-20, **Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**, Teresa Klatzer et.al., Paper: [http://arxiv.org/abs/2503.16222](http://arxiv.org/abs/2503.16222)
+- 2025-03-17, **Decouple to Reconstruct: High Quality UHD Restoration via Active Feature Disentanglement and Reversible Fusion**, Yidi Liu et.al., Paper: [http://arxiv.org/abs/2503.12764](http://arxiv.org/abs/2503.12764)
+- 2025-03-20, **DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**, Suraj Singh et.al., Paper: [http://arxiv.org/abs/2503.15984](http://arxiv.org/abs/2503.15984)
 
 <p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
