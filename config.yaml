@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "liutaocode"
-repo_name: "cv-arxiv-daily"
+user_name: "tbw"
+repo_name: "arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -25,7 +25,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Talking Face": 
-        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis", "Face Reenactment", "Wav2lip", "Talking Avatar", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
-    "Image Animation":
-        filters: ["Image Animator", "Image Animation"]
+    "Motion": 
+        filters: ["Motion Prediction", "Human Motion Prediction", "Hand Motion Prediction"]
+    "Low Level":
+        filters: ["Image Restoration", "Video Restoratoin"]
