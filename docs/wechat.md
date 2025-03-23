@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
     <li><a href=#image-animation>Image Animation</a></li>
     <li><a href=#motion>Motion</a></li>
     <li><a href=#low-level>Low Level</a></li>
+    <li><a href=#llm>LLM</a></li>
   </ol>
 </details>
 
@@ -830,6 +831,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 - 2025-03-20, **UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**, Debabrata Mandal et.al., Paper: [http://arxiv.org/abs/2503.15868](http://arxiv.org/abs/2503.15868)
 - 2025-03-18, **Towards properties of adversarial image perturbations**, Egor Kuznetsov et.al., Paper: [http://arxiv.org/abs/2503.14111](http://arxiv.org/abs/2503.14111)
+- 2025-03-19, **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**, Hengkang Wang et.al., Paper: [http://arxiv.org/abs/2503.14863](http://arxiv.org/abs/2503.14863)
 - 2025-03-18, **SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**, Yucheng Mao et.al., Paper: [http://arxiv.org/abs/2503.14463](http://arxiv.org/abs/2503.14463)
 - 2025-03-16, **Pathology Image Restoration via Mixture of Prompts**, Jiangdong Cai et.al., Paper: [http://arxiv.org/abs/2503.12399](http://arxiv.org/abs/2503.12399), Code: **[https://github.com/caijd2000/mop](https://github.com/caijd2000/mop)**
 - 2025-03-18, **Intra and Inter Parser-Prompted Transformers for Effective Image Restoration**, Cong Wang et.al., Paper: [http://arxiv.org/abs/2503.14037](http://arxiv.org/abs/2503.14037), Code: **[https://github.com/supersupercong/pptformer](https://github.com/supersupercong/pptformer)**
@@ -838,6 +840,21 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-03-20, **Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**, Teresa Klatzer et.al., Paper: [http://arxiv.org/abs/2503.16222](http://arxiv.org/abs/2503.16222)
 - 2025-03-17, **Decouple to Reconstruct: High Quality UHD Restoration via Active Feature Disentanglement and Reversible Fusion**, Yidi Liu et.al., Paper: [http://arxiv.org/abs/2503.12764](http://arxiv.org/abs/2503.12764)
 - 2025-03-20, **DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**, Suraj Singh et.al., Paper: [http://arxiv.org/abs/2503.15984](http://arxiv.org/abs/2503.15984)
+
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+
+## LLM
+
+- 2025-03-20, **Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**, Shuqi Lu et.al., Paper: [http://arxiv.org/abs/2503.16278](http://arxiv.org/abs/2503.16278)
+- 2025-03-20, **The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**, Yifan Sun et.al., Paper: [http://arxiv.org/abs/2503.16402](http://arxiv.org/abs/2503.16402)
+- 2025-03-20, **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**, Yang Sui et.al., Paper: [http://arxiv.org/abs/2503.16419](http://arxiv.org/abs/2503.16419)
+- 2025-03-20, **OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**, Long Yuan et.al., Paper: [http://arxiv.org/abs/2503.16326](http://arxiv.org/abs/2503.16326)
+- 2025-03-20, **LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**, Leyang Wang et.al., Paper: [http://arxiv.org/abs/2503.16376](http://arxiv.org/abs/2503.16376)
+- 2025-03-20, **LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**, Ying Shen et.al., Paper: [http://arxiv.org/abs/2503.16334](http://arxiv.org/abs/2503.16334)
+- 2025-03-20, **Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**, Guanyu Chen et.al., Paper: [http://arxiv.org/abs/2503.16401](http://arxiv.org/abs/2503.16401)
+- 2025-03-20, **Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**, Yijia Luo et.al., Paper: [http://arxiv.org/abs/2503.16385](http://arxiv.org/abs/2503.16385)
+- 2025-03-20, **CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**, Yunzhi Yao et.al., Paper: [http://arxiv.org/abs/2503.16356](http://arxiv.org/abs/2503.16356)
+- 2025-03-20, **Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**, Peiran Gu et.al., Paper: [http://arxiv.org/abs/2503.16304](http://arxiv.org/abs/2503.16304)
 
 <p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 

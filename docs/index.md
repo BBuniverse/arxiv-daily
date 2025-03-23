@@ -827,12 +827,28 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
 |**2025-03-20**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-19**|**Image Restoration Models with Optimal Transport and Total Variation Regularization**|Weijia Huang et.al.|[2503.14947](http://arxiv.org/abs/2503.14947)|null|
+|**2025-03-19**|**Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**|Hengkang Wang et.al.|[2503.14863](http://arxiv.org/abs/2503.14863)|null|
 |**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463](http://arxiv.org/abs/2503.14463)|null|
 |**2025-03-18**|**Towards properties of adversarial image perturbations**|Egor Kuznetsov et.al.|[2503.14111](http://arxiv.org/abs/2503.14111)|null|
 |**2025-03-18**|**Intra and Inter Parser-Prompted Transformers for Effective Image Restoration**|Cong Wang et.al.|[2503.14037](http://arxiv.org/abs/2503.14037)|**[link](https://github.com/supersupercong/pptformer)**|
 |**2025-03-17**|**From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective**|Chen Zhao et.al.|[2503.13165](http://arxiv.org/abs/2503.13165)|null|
 |**2025-03-17**|**Decouple to Reconstruct: High Quality UHD Restoration via Active Feature Disentanglement and Reversible Fusion**|Yidi Liu et.al.|[2503.12764](http://arxiv.org/abs/2503.12764)|null|
 |**2025-03-16**|**Pathology Image Restoration via Mixture of Prompts**|Jiangdong Cai et.al.|[2503.12399](http://arxiv.org/abs/2503.12399)|**[link](https://github.com/caijd2000/mop)**|
+
+## LLM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|null|
+|**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
+|**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385](http://arxiv.org/abs/2503.16385)|null|
+|**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
+|**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356](http://arxiv.org/abs/2503.16356)|null|
+|**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
+|**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
+|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304](http://arxiv.org/abs/2503.16304)|null|
+|**2025-03-20**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|null|
 
 Notes: 
 
