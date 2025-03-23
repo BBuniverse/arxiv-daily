@@ -394,18 +394,18 @@ def json_to_md(recent_trend_path,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/BBuniverse/"
                      f"talking-face-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/BBuniverse/"
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/liutaocode/"
                      f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[forks-url]: https://github.com/BBuniverse/"
                      f"talking-face-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/BBuniverse/"
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/liutaocode/"
                      f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[stars-url]: https://github.com/BBuniverse/"
                      f"talking-face-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/BBuniverse/"
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/liutaocode/"
                      f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[issues-url]: https://github.com/BBuniverse/"
                      f"talking-face-arxiv-daily/issues\n\n"))
