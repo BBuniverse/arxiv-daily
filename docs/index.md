@@ -7,9 +7,9 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Talking-Face Research Papers (With GPT Analysis)
+# Research Papers (With GPT Analysis)
 ### Automatically Updated on 2025.03.23
-Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
+Current Search Keywords: `Motion`, `Low Level`, `LLM`
 
 > If you have any other keywords, please feel free to let us know :) 
 
@@ -41,9 +41,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
   </ol>
 </details>
 
-[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) 
+[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/BBuniverse/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) 
 
-[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) 
+[Web Page](https://BBuniverse.github.io/arxiv-daily/) ([Scrape Code](https://github.com/BBuniverse/arxiv-daily)) 
 
 ## Talking Face
 
@@ -864,12 +864,12 @@ Function added:
 
 * Supports the analysis of more than 10 papers in a single conversation, which exceeds the attachment size limit. 
 
-[contributors-shield]: https://img.shields.io/github/contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/liutaocode/talking-face-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/liutaocode/talking-face-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/liutaocode/talking-face-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/liutaocode/talking-face-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/BBuniverse/talking-face-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/BBuniverse/talking-face-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/BBuniverse/talking-face-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/BBuniverse/talking-face-arxiv-daily/issues
 
