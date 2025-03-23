@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Talking-Face Research Papers (With GPT Analysis)
+# Research Papers (With GPT Analysis)
 ### Automatically Updated on 2025.03.23
 Current Search Keywords: `Motion`, `Low Level`
 
@@ -37,9 +37,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
   </ol>
 </details>
 
-[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) 
+[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/BBuniverse/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) 
 
-[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) 
+[Web Page](https://bbuniverse.github.io/arxiv-daily/) ([Scrape Code](https://bbuniverse.github.io/arxiv-daily/)) 
 
 <details>
   <summary>Table of Contents</summary>
