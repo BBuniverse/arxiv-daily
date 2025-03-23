@@ -25,7 +25,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "LLM":
+        filters: ["large language model", "agent"]
     "Motion": 
-        filters: ["Motion Prediction", "Human Motion Prediction", "Hand Motion Prediction"]
+        filters: ["motion prediction", "human motion prediction", "hand motion prediction"]
     "Low Level":
-        filters: ["Image Restoration", "Video Restoratoin"]
+        filters: ["image restoration", "video restoration"]
