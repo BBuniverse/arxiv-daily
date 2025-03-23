@@ -5,11 +5,11 @@ repo_name: "arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: True
+publish_wechat: False
 
 # file paths
 black_list_path: 'blacklists.txt'
