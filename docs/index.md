@@ -864,12 +864,12 @@ Function added:
 
 * Supports the analysis of more than 10 papers in a single conversation, which exceeds the attachment size limit. 
 
-[contributors-shield]: https://img.shields.io/github/contributors/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/BBuniverse/talking-face-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
 [forks-url]: https://github.com/BBuniverse/talking-face-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
 [stars-url]: https://github.com/BBuniverse/talking-face-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
 [issues-url]: https://github.com/BBuniverse/talking-face-arxiv-daily/issues
 
