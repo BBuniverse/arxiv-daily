@@ -308,7 +308,7 @@ def json_to_md(recent_trend_path,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Talking-Face Research Papers (With GPT Analysis)\n")
+        f.write("# Research Papers (With GPT Analysis)\n")
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
@@ -317,7 +317,7 @@ def json_to_md(recent_trend_path,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
+        f.write("Current Search Keywords: `Motion`, `Low Level`, `LLM`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
         f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` or `Moonshot AI`. This is to help everyone **quickly skim** through the latest research papers. \n\n")
         f.write(" \n\n")
@@ -330,8 +330,8 @@ def json_to_md(recent_trend_path,
         f.write("  </ol>\n")
         f.write("</details>\n\n")
 
-        f.write("[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) \n\n")
-        f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
+        f.write("[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/BBuniverse/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) \n\n")
+        f.write("[Web Page](https://BBuniverse.github.io/arxiv-daily/) ([Scrape Code](https://github.com/BBuniverse/arxiv-daily)) \n\n")
         
         #Add: table of contents
         if use_tc == True:
@@ -394,20 +394,20 @@ def json_to_md(recent_trend_path,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/liutaocode/"
+                     f"contributors/BBuniverse/talking-face-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/BBuniverse/"
                      f"talking-face-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/liutaocode/"
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/BBuniverse/"
                      f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/liutaocode/"
+            f.write((f"[forks-url]: https://github.com/BBuniverse/"
                      f"talking-face-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/liutaocode/"
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/BBuniverse/"
                      f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/liutaocode/"
+            f.write((f"[stars-url]: https://github.com/BBuniverse/"
                      f"talking-face-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/liutaocode/"
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/BBuniverse/"
                      f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/liutaocode/"
+            f.write((f"[issues-url]: https://github.com/BBuniverse/"
                      f"talking-face-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
