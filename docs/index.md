@@ -7,8 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.03.25
+## Automatically Updated on 2025.03.25
 Current Search Keywords: `Motion`, `Low Level`, `LLM`
 
 > If you have any other keywords, please feel free to let us know :) 
