@@ -308,13 +308,13 @@ def json_to_md(recent_trend_path,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Research Papers (With GPT Analysis)\n")
+        # f.write("# Research Papers (With GPT Analysis)\n")
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("### Automatically Updated on " + DateNow + "\n")
+            f.write("## Automatically Updated on " + DateNow + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write("> Automatically Updated on " + DateNow + "\n")
 
         # TODO: add usage
         f.write("Current Search Keywords: `Motion`, `Low Level`, `LLM`\n\n")
@@ -379,7 +379,7 @@ def json_to_md(recent_trend_path,
             
             #Add: back to top
             if use_b2t:
-                top_info = f"#Updated on {DateNow}"
+                top_info = f"#Automatically Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
         
