@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Automatically Updated on 2025.03.30
+## Automatically Updated on 2025.03.31
 Current Search Keywords: `Motion`, `Low Level`, `LLM`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -155,12 +155,14 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-07-07**|**Rethinking Closed-loop Planning Framework for Imitation-based Model Integrating Prediction and Planning**|Jiayu Guo et.al.|[2407.05376](http://arxiv.org/abs/2407.05376)|null|
 |**2024-07-02**|**ReliaAvatar: A Robust Real-Time Avatar Animator with Integrated Motion Prediction**|Bo Qian et.al.|[2407.02129](http://arxiv.org/abs/2407.02129)|null|
 
-<p align=right>(<a href=#automatically-updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250331>back to top</a>)</p>
 
 ## Low Level
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
+|**2025-03-27**|**Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration**|Yujie Chen et.al.|[2503.21970](http://arxiv.org/abs/2503.21970)|null|
 |**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486](http://arxiv.org/abs/2503.21486)|null|
 |**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
 |**2025-03-26**|**Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration**|Shihao Zhou et.al.|[2503.20174](http://arxiv.org/abs/2503.20174)|null|
@@ -268,12 +270,62 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
 |**2024-12-12**|**Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression**|Ali Mollaahmadi Dehaghi et.al.|[2412.08912](http://arxiv.org/abs/2412.08912)|**[link](https://github.com/alimd94/DiQP)**|
 
-<p align=right>(<a href=#automatically-updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250331>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
+|**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674](http://arxiv.org/abs/2503.22674)|null|
+|**2025-03-28**|**Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder Re-rankers**|Francesca Pezzuti et.al.|[2503.22672](http://arxiv.org/abs/2503.22672)|**[link](https://github.com/fpezzuti/multistage-finetuning)**|
+|**2025-03-28**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655](http://arxiv.org/abs/2503.22655)|**[link](https://github.com/yu-xm/unicorn)**|
+|**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610](http://arxiv.org/abs/2503.22610)|null|
+|**2025-03-28**|**On the Alignment of Post-Publication Reviews & Bibliometric and Altmetric Impact -- A Case Study on Expert Statements from the Science Media Center Germany**|Dirk Tunger et.al.|[2503.22594](http://arxiv.org/abs/2503.22594)|null|
+|**2025-03-28**|**LLM-enabled Instance Model Generation**|Fengjunjie Pan et.al.|[2503.22587](http://arxiv.org/abs/2503.22587)|null|
+|**2025-03-28**|**Historical Ink: Exploring Large Language Models for Irony Detection in 19th-Century Spanish**|Kevin Cohen et.al.|[2503.22585](http://arxiv.org/abs/2503.22585)|**[link](https://github.com/historicalink/ironydetection)**|
+|**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
+|**2025-03-28**|**Niyama : Breaking the Silos of LLM Inference Serving**|Kanishk Goel et.al.|[2503.22562](http://arxiv.org/abs/2503.22562)|null|
+|**2025-03-28**|**Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation**|Zhuo-Yang Song et.al.|[2503.22547](http://arxiv.org/abs/2503.22547)|null|
+|**2025-03-28**|**Exploiting Mixture-of-Experts Redundancy Unlocks Multimodal Generative Abilities**|Raman Dutt et.al.|[2503.22517](http://arxiv.org/abs/2503.22517)|null|
+|**2025-03-28**|**Probabilistic Uncertain Reward Model: A Natural Generalization of Bradley-Terry Reward Model**|Wangtao Sun et.al.|[2503.22480](http://arxiv.org/abs/2503.22480)|null|
+|**2025-03-28**|**WorkTeam: Constructing Workflows from Natural Language with Multi-Agents**|Hanchao Liu et.al.|[2503.22473](http://arxiv.org/abs/2503.22473)|null|
+|**2025-03-28**|**Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey**|Shengyue Guan et.al.|[2503.22458](http://arxiv.org/abs/2503.22458)|null|
+|**2025-03-28**|**Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning**|Abdullah Vanlioglu et.al.|[2503.22456](http://arxiv.org/abs/2503.22456)|null|
+|**2025-03-28**|**STADE: Standard Deviation as a Pruning Metric**|Diego Coello de Portugal Mecke et.al.|[2503.22451](http://arxiv.org/abs/2503.22451)|null|
+|**2025-03-28**|**CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching**|Zhonghao Jiang et.al.|[2503.22424](http://arxiv.org/abs/2503.22424)|**[link](https://github.com/zhonghaojiang/cosil)**|
+|**2025-03-28**|**Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis**|Jiangyong Huang et.al.|[2503.22420](http://arxiv.org/abs/2503.22420)|null|
+|**2025-03-28**|**Training Large Language Models for Advanced Typosquatting Detection**|Jackson Welch et.al.|[2503.22406](http://arxiv.org/abs/2503.22406)|null|
+|**2025-03-28**|**Generative Reliability-Based Design Optimization Using In-Context Learning Capabilities of Large Language Models**|Zhonglin Jiang et.al.|[2503.22401](http://arxiv.org/abs/2503.22401)|null|
+|**2025-03-28**|**Negation: A Pink Elephant in the Large Language Models' Room?**|Tereza Vrabcová et.al.|[2503.22395](http://arxiv.org/abs/2503.22395)|null|
+|**2025-03-28**|**Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs**|Yuan He et.al.|[2503.22362](http://arxiv.org/abs/2503.22362)|null|
+|**2025-03-28**|**Firm or Fickle? Evaluating Large Language Models Consistency in Sequential Interactions**|Yubo Li et.al.|[2503.22353](http://arxiv.org/abs/2503.22353)|null|
+|**2025-03-28**|**Using a Large Language Model as Design Material for an Interactive Museum Installation**|Maria Padilla Engstrøm et.al.|[2503.22345](http://arxiv.org/abs/2503.22345)|null|
+|**2025-03-28**|**SKDU at De-Factify 4.0: Natural Language Features for AI-Generated Text-Detection**|Shrikant Malviya et.al.|[2503.22338](http://arxiv.org/abs/2503.22338)|null|
+|**2025-03-28**|**A Refined Analysis of Massive Activations in LLMs**|Louis Owen et.al.|[2503.22329](http://arxiv.org/abs/2503.22329)|**[link](https://github.com/bluorion-com/refine_massive_activations)**|
+|**2025-03-28**|**Large Language Models Are Democracy Coders with Attitudes**|Nils B. Weidmann et.al.|[2503.22315](http://arxiv.org/abs/2503.22315)|null|
+|**2025-03-28**|**BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service**|Francesco Kruk et.al.|[2503.22283](http://arxiv.org/abs/2503.22283)|null|
+|**2025-03-28**|**MultiClaimNet: A Massively Multilingual Dataset of Fact-Checked Claim Clusters**|Rrubaa Panchendrarajan et.al.|[2503.22280](http://arxiv.org/abs/2503.22280)|null|
+|**2025-03-28**|**Make Some Noise: Towards LLM audio reasoning and generation using sound tokens**|Shivam Mehta et.al.|[2503.22275](http://arxiv.org/abs/2503.22275)|null|
+|**2025-03-28**|**Beyond the Script: Testing LLMs for Authentic Patient Communication Styles in Healthcare**|Anna Bodonhelyi et.al.|[2503.22250](http://arxiv.org/abs/2503.22250)|null|
+|**2025-03-28**|**Agent-Centric Personalized Multiple Clustering with Multi-Modal LLMs**|Ziye Chen et.al.|[2503.22241](http://arxiv.org/abs/2503.22241)|null|
+|**2025-03-28**|**Integrating LLMs in Software Engineering Education: Motivators, Demotivators, and a Roadmap Towards a Framework for Finnish Higher Education Institutes**|Maryam Khan et.al.|[2503.22238](http://arxiv.org/abs/2503.22238)|null|
+|**2025-03-28**|**Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback**|Wei Shen et.al.|[2503.22230](http://arxiv.org/abs/2503.22230)|null|
+|**2025-03-28**|**DeepSound-V1: Start to Think Step-by-Step in the Audio Generation from Videos**|Yunming Liang et.al.|[2503.22208](http://arxiv.org/abs/2503.22208)|null|
+|**2025-03-28**|**EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for Edge Devices**|Jiyu Chen et.al.|[2503.22196](http://arxiv.org/abs/2503.22196)|null|
+|**2025-03-28**|**Reasoning of Large Language Models over Knowledge Graphs with Super-Relations**|Song Wang et.al.|[2503.22166](http://arxiv.org/abs/2503.22166)|null|
+|**2025-03-28**|**Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models**|Zhanke Zhou et.al.|[2503.22165](http://arxiv.org/abs/2503.22165)|**[link](https://github.com/tmlr-group/landscape-of-thoughts)**|
+|**2025-03-28**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164](http://arxiv.org/abs/2503.22164)|null|
+|**2025-03-28**|**EgoToM: Benchmarking Theory of Mind Reasoning from Egocentric Videos**|Yuxuan Li et.al.|[2503.22152](http://arxiv.org/abs/2503.22152)|**[link](https://github.com/facebookresearch/egotom)**|
+|**2025-03-28**|**Tokenization of Gaze Data**|Tim Rolff et.al.|[2503.22145](http://arxiv.org/abs/2503.22145)|null|
+|**2025-03-28**|**FRASE: Structured Representations for Generalizable SPARQL Query Generation**|Papa Abdou Karim Karou Diallo et.al.|[2503.22144](http://arxiv.org/abs/2503.22144)|null|
+|**2025-03-28**|**Sharpe Ratio-Guided Active Learning for Preference Optimization in RLHF**|Syrine Belakaria et.al.|[2503.22137](http://arxiv.org/abs/2503.22137)|null|
+|**2025-03-28**|**Beyond Single-Sentence Prompts: Upgrading Value Alignment Benchmarks with Dialogues and Stories**|Yazhou Zhang et.al.|[2503.22115](http://arxiv.org/abs/2503.22115)|null|
+|**2025-03-28**|**Few-Shot Graph Out-of-Distribution Detection with LLMs**|Haoyan Xu et.al.|[2503.22097](http://arxiv.org/abs/2503.22097)|null|
+|**2025-03-28**|**Leveraging LLMs for Predicting Unknown Diagnoses from Clinical Notes**|Dina Albassam et.al.|[2503.22092](http://arxiv.org/abs/2503.22092)|null|
+|**2025-03-28**|**Penrose Tiled Low-Rank Compression and Section-Wise Q&A Fine-Tuning: A General Framework for Domain-Specific Large Language Model Adaptation**|Chuan-Wei Kuo et.al.|[2503.22074](http://arxiv.org/abs/2503.22074)|null|
+|**2025-03-28**|**Arch-LLM: Taming LLMs for Neural Architecture Generation via Unsupervised Discrete Representation Learning**|Deshani Geethika Poddenige et.al.|[2503.22063](http://arxiv.org/abs/2503.22063)|null|
+|**2025-03-27**|**ThinkEdit: Interpretable Weight Editing to Mitigate Overly Short Thinking in Reasoning Models**|Chung-En Sun et.al.|[2503.22048](http://arxiv.org/abs/2503.22048)|null|
 |**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|**[link](https://github.com/tulerfeng/video-r1)**|
 |**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
 |**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735](http://arxiv.org/abs/2503.21735)|null|
@@ -573,12 +625,14 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-03-19**|**When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?**|Jingyi Chen et.al.|[2503.15231](http://arxiv.org/abs/2503.15231)|null|
 |**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|null|
 
-<p align=right>(<a href=#automatically-updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250331>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
+|**2025-03-27**|**Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration**|Yujie Chen et.al.|[2503.21970](http://arxiv.org/abs/2503.21970)|null|
 |**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486](http://arxiv.org/abs/2503.21486)|null|
 |**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
 |**2025-03-26**|**Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration**|Shihao Zhou et.al.|[2503.20174](http://arxiv.org/abs/2503.20174)|null|
@@ -630,7 +684,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-02-01**|**Shape from Semantics: 3D Shape Generation from Multi-View Semantics**|Liangchen Li et.al.|[2502.00360](http://arxiv.org/abs/2502.00360)|null|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
 
-<p align=right>(<a href=#automatically-updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250331>back to top</a>)</p>
 
 Notes: 
 
