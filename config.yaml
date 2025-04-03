@@ -31,5 +31,7 @@ keywords:
         filters: ["large language model"]
     "Motion": 
         filters: ["motion prediction", "human motion prediction", "hand motion prediction"]
+    "IQA":
+        filters: ["IQA", "IAA"]
     "Low Level":
         filters: ["image restoration", "video restoration"]
