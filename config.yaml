@@ -26,7 +26,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Agent":
-        filters: ["image restoration"]
+        filters: ["image restoration", "agent"]
     "LLM":
         filters: ["large language model"]
     "Motion": 
