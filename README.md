@@ -329,10 +329,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |---|---|---|---|---|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
 |**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279](http://arxiv.org/abs/2504.15279)|null|
-|**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|null|
+|**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|**[link](https://github.com/cjreinforce/pure)**|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
-|**2025-04-21**|**CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation**|Anirudh Khatry et.al.|[2504.15254](http://arxiv.org/abs/2504.15254)|null|
-|**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|null|
+|**2025-04-21**|**CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation**|Anirudh Khatry et.al.|[2504.15254](http://arxiv.org/abs/2504.15254)|**[link](https://github.com/anirudhkhatry/crust-bench)**|
+|**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|**[link](https://github.com/salesforceairesearch/jetts-benchmark)**|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
 |**2025-04-21**|**EvalAgent: Discovering Implicit Evaluation Criteria from the Web**|Manya Wadhwa et.al.|[2504.15219](http://arxiv.org/abs/2504.15219)|null|
 |**2025-04-21**|**Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs**|Marina Sakharova et.al.|[2504.15210](http://arxiv.org/abs/2504.15210)|null|
@@ -341,8 +341,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-21**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**|Joan C. Timoneda et.al.|[2504.15160](http://arxiv.org/abs/2504.15160)|null|
-|**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|null|
-|**2025-04-21**|**EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models**|Ziwen Xu et.al.|[2504.15133](http://arxiv.org/abs/2504.15133)|null|
+|**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
+|**2025-04-21**|**EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models**|Ziwen Xu et.al.|[2504.15133](http://arxiv.org/abs/2504.15133)|**[link](https://github.com/zjunlp/easyedit)**|
 |**2025-04-21**|**Kuwain 1.5B: An Arabic SLM via Language Injection**|Khalil Hennara et.al.|[2504.15120](http://arxiv.org/abs/2504.15120)|null|
 |**2025-04-21**|**Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models**|K. Wong et.al.|[2504.15093](http://arxiv.org/abs/2504.15093)|null|
 |**2025-04-21**|**Empowering AI to Generate Better AI Code: Guided Generation of Deep Learning Projects with LLMs**|Chen Xie et.al.|[2504.15080](http://arxiv.org/abs/2504.15080)|null|
@@ -350,7 +350,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-21**|**The Great Nugget Recall: Automating Fact Extraction and RAG Evaluation with Large Language Models**|Ronak Pradeep et.al.|[2504.15068](http://arxiv.org/abs/2504.15068)|null|
 |**2025-04-21**|**Testing LLMs' Capabilities in Annotating Translations Based on an Error Typology Designed for LSP Translation: First Experiments with ChatGPT**|Joachim Minder et.al.|[2504.15052](http://arxiv.org/abs/2504.15052)|null|
 |**2025-04-21**|**ScanEdit: Hierarchically-Guided Functional 3D Scan Editing**|Mohamed el amine Boudjoghra et.al.|[2504.15049](http://arxiv.org/abs/2504.15049)|null|
-|**2025-04-21**|**RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search**|Quy-Anh Dang et.al.|[2504.15047](http://arxiv.org/abs/2504.15047)|null|
+|**2025-04-21**|**RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search**|Quy-Anh Dang et.al.|[2504.15047](http://arxiv.org/abs/2504.15047)|**[link](https://github.com/knoveleng/rainbowplus)**|
 |**2025-04-21**|**A Call for New Recipes to Enhance Spatial Reasoning in MLLMs**|Huanyu Zhang et.al.|[2504.15037](http://arxiv.org/abs/2504.15037)|null|
 |**2025-04-21**|**DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation**|Weijie He et.al.|[2504.15032](http://arxiv.org/abs/2504.15032)|null|
 |**2025-04-21**|**DistilQwen2.5: Industrial Practices of Training Distilled Open Lightweight Language Models**|Chengyu Wang et.al.|[2504.15027](http://arxiv.org/abs/2504.15027)|null|
@@ -365,7 +365,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-21**|**EducationQ: Evaluating LLMs' Teaching Capabilities Through Multi-Agent Dialogue Framework**|Yao Shi et.al.|[2504.14928](http://arxiv.org/abs/2504.14928)|null|
 |**2025-04-21**|**POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications**|Chunjing Gan et.al.|[2504.14917](http://arxiv.org/abs/2504.14917)|null|
 |**2025-04-21**|**StableQuant: Layer Adaptive Post-Training Quantization for Speech Foundation Models**|Yeona Hong et.al.|[2504.14915](http://arxiv.org/abs/2504.14915)|null|
-|**2025-04-21**|**CRAVE: A Conflicting Reasoning Approach for Explainable Claim Verification Using LLMs**|Yingming Zheng et.al.|[2504.14905](http://arxiv.org/abs/2504.14905)|null|
+|**2025-04-21**|**CRAVE: A Conflicting Reasoning Approach for Explainable Claim Verification Using LLMs**|Yingming Zheng et.al.|[2504.14905](http://arxiv.org/abs/2504.14905)|**[link](https://github.com/8zym/crave)**|
 |**2025-04-21**|**Hardware-based Heterogeneous Memory Management for Large Language Model Inference**|Soojin Hwang et.al.|[2504.14893](http://arxiv.org/abs/2504.14893)|null|
 |**2025-04-21**|**Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey**|Aoran Gan et.al.|[2504.14891](http://arxiv.org/abs/2504.14891)|null|
 |**2025-04-21**|**Efficient Function Orchestration for Large Language Models**|Xiaoxia Liu et.al.|[2504.14872](http://arxiv.org/abs/2504.14872)|null|
@@ -374,7 +374,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-21**|**Transparentize the Internal and External Knowledge Utilization in LLMs with Trustworthy Citation**|Jiajun Shen et.al.|[2504.14856](http://arxiv.org/abs/2504.14856)|null|
 |**2025-04-21**|**APIRAT: Integrating Multi-source API Knowledge for Enhanced Code Translation with LLMs**|Chaofan Wang et.al.|[2504.14852](http://arxiv.org/abs/2504.14852)|null|
 |**2025-04-21**|**Language Models for Materials Discovery and Sustainability: Progress, Challenges, and Opportunities**|Zongrui Pei et.al.|[2504.14849](http://arxiv.org/abs/2504.14849)|null|
-|**2025-04-21**|**Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph**|Qiushi Xiong et.al.|[2504.14845](http://arxiv.org/abs/2504.14845)|null|
+|**2025-04-21**|**Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph**|Qiushi Xiong et.al.|[2504.14845](http://arxiv.org/abs/2504.14845)|**[link](https://github.com/neuir/memgraph)**|
 |**2025-04-21**|**Establishing Reliability Metrics for Reward Models in Large Language Models**|Yizhou Chen et.al.|[2504.14838](http://arxiv.org/abs/2504.14838)|null|
 |**2025-04-21**|**SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation**|Jiahui Li et.al.|[2504.14837](http://arxiv.org/abs/2504.14837)|null|
 |**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
