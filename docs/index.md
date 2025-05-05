@@ -545,7 +545,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-28**|**Guided Tensor Lifting**|Yixuan Li et.al.|[2504.19705](http://arxiv.org/abs/2504.19705)|null|
 |**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678](http://arxiv.org/abs/2504.19678)|null|
 |**2025-04-28**|**Annif at SemEval-2025 Task 5: Traditional XMTC augmented by LLMs**|Osma Suominen et.al.|[2504.19675](http://arxiv.org/abs/2504.19675)|null|
-|**2025-04-28**|**$\texttt{SAGE}$ : A Generic Framework for LLM Safety Evaluation**|Madhur Jindal et.al.|[2504.19674](http://arxiv.org/abs/2504.19674)|null|
+|**2025-04-28**|**$\texttt{SAGE}$ : A Generic Framework for LLM Safety Evaluation**|Madhur Jindal et.al.|[2504.19674](http://arxiv.org/abs/2504.19674)|**[link](https://github.com/Madhur-1/SageLLMSafetyEval)**|
 |**2025-04-28**|**A Tripartite Perspective on GraphRAG**|Michael Banf et.al.|[2504.19667](http://arxiv.org/abs/2504.19667)|null|
 |**2025-04-28**|**Decentralization of Generative AI via Mixture of Experts for Wireless Networks: A Comprehensive Survey**|Yunting Xu et.al.|[2504.19660](http://arxiv.org/abs/2504.19660)|null|
 |**2025-04-28**|**Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models**|Lei Xu et.al.|[2504.19649](http://arxiv.org/abs/2504.19649)|null|
@@ -563,7 +563,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-28**|**Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies**|Kavindu Warnakulasuriya et.al.|[2504.19487](http://arxiv.org/abs/2504.19487)|null|
 |**2025-04-28**|**Improving Reasoning Performance in Large Language Models via Representation Engineering**|Bertram Højer et.al.|[2504.19483](http://arxiv.org/abs/2504.19483)|null|
 |**2025-04-28**|**An Automated Reinforcement Learning Reward Design Framework with Large Language Model for Cooperative Platoon Coordination**|Dixiao Wei et.al.|[2504.19480](http://arxiv.org/abs/2504.19480)|null|
-|**2025-04-28**|**BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text**|Jiageng Wu et.al.|[2504.19467](http://arxiv.org/abs/2504.19467)|null|
+|**2025-04-28**|**BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text**|Jiageng Wu et.al.|[2504.19467](http://arxiv.org/abs/2504.19467)|**[link](https://github.com/YLab-Open/BRIDGE)**|
 |**2025-04-28**|**Do Automatic Comment Generation Techniques Fall Short? Exploring the Influence of Method Dependencies on Code Understanding**|Md Mustakim Billah et.al.|[2504.19459](http://arxiv.org/abs/2504.19459)|null|
 |**2025-04-28**|**Towards Long Context Hallucination Detection**|Siyi Liu et.al.|[2504.19457](http://arxiv.org/abs/2504.19457)|null|
 |**2025-04-28**|**Masked Language Prompting for Generative Data Augmentation in Few-shot Fashion Style Recognition**|Yuki Hirakawa et.al.|[2504.19455](http://arxiv.org/abs/2504.19455)|null|
@@ -629,7 +629,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-24**|**Towards Machine-Generated Code for the Resolution of User Intentions**|Justus Flerlage et.al.|[2504.17531](http://arxiv.org/abs/2504.17531)|null|
 |**2025-04-24**|**Combining GCN Structural Learning with LLM Chemical Knowledge for or Enhanced Virtual Screening**|Radia Berreziga et.al.|[2504.17497](http://arxiv.org/abs/2504.17497)|null|
 |**2025-04-24**|**Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation**|Xin Yi et.al.|[2504.17480](http://arxiv.org/abs/2504.17480)|null|
-|**2025-04-24**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454](http://arxiv.org/abs/2504.17454)|null|
+|**2025-04-24**|**Adaptive Orchestration of Modular Generative Information Access Systems**|Mohanna Hoveyda et.al.|[2504.17454](http://arxiv.org/abs/2504.17454)|**[link](https://github.com/informagi/AQA)**|
 |**2025-04-24**|**Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs**|Tiancheng Gu et.al.|[2504.17432](http://arxiv.org/abs/2504.17432)|null|
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-24**|**Towards Leveraging Large Language Model Summaries for Topic Modeling in Source Code**|Michele Carissimi et.al.|[2504.17426](http://arxiv.org/abs/2504.17426)|null|
@@ -1076,7 +1076,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-09**|**Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program**|Minghe Gao et.al.|[2504.06606](http://arxiv.org/abs/2504.06606)|null|
 |**2025-04-09**|**Automated Business Process Analysis: An LLM-Based Approach to Value Assessment**|William De Michele et.al.|[2504.06600](http://arxiv.org/abs/2504.06600)|**[link](https://github.com/wdemichele/wipe)**|
 |**2025-04-09**|**A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking**|Abhinav Pathak et.al.|[2504.06593](http://arxiv.org/abs/2504.06593)|null|
-|**2025-04-09**|**Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis**|Umakanta Maharana et.al.|[2504.06581](http://arxiv.org/abs/2504.06581)|null|
+|**2025-04-09**|**Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis**|Umakanta Maharana et.al.|[2504.06581](http://arxiv.org/abs/2504.06581)|**[link](https://github.com/Umakantamaharana/right-prediction-wrong-reasoning)**|
 |**2025-04-09**|**Bypassing Safety Guardrails in LLMs Using Humor**|Pedro Cisneros-Velarde et.al.|[2504.06577](http://arxiv.org/abs/2504.06577)|null|
 |**2025-04-09**|**NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables**|Lanrui Wang et.al.|[2504.06560](http://arxiv.org/abs/2504.06560)|null|
 |**2025-04-09**|**Lugha-Llama: Adapting Large Language Models for African Languages**|Happy Buzaaba et.al.|[2504.06536](http://arxiv.org/abs/2504.06536)|null|
