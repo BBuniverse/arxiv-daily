@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Automatically Updated on 2025.05.07
+## Automatically Updated on 2025.05.08
 Current Search Keywords: `Motion`, `Low Level`, `LLM`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -54,6 +54,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
+|**2025-05-07**|**Mitigating the Impact of Electrode Shift on Classification Performance in Electromyography-Based Motion Prediction Using Sliding-Window Normalization**|Taichi Tanaka et.al.|[2504.03196](http://arxiv.org/abs/2504.03196)|null|
 |**2025-05-01**|**Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction**|Ze Zhang et.al.|[2505.00237](http://arxiv.org/abs/2505.00237)|null|
 |**2025-04-29**|**EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds**|Lu Chen et.al.|[2502.05857](http://arxiv.org/abs/2502.05857)|null|
 |**2025-04-25**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
@@ -66,7 +68,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-04-06**|**Data Scaling Laws for End-to-End Autonomous Driving**|Alexander Naumann et.al.|[2504.04338](http://arxiv.org/abs/2504.04338)|null|
 |**2025-04-06**|**A High-Speed Time-Optimal Trajectory Generation Strategy via a Two-layer Planning Model**|Haotian Tan et.al.|[2503.11072](http://arxiv.org/abs/2503.11072)|null|
 |**2025-04-04**|**Deep Learning-Enhanced Robotic Subretinal Injection with Real-Time Retinal Motion Compensation**|Tianle Wu et.al.|[2504.03939](http://arxiv.org/abs/2504.03939)|null|
-|**2025-04-04**|**Mitigating the Impact of Electrode Shift on Classification Performance in Electromyography-Based Motion Prediction Using Sliding-Window Normalization**|Taichi Tanaka et.al.|[2504.03196](http://arxiv.org/abs/2504.03196)|null|
 |**2025-04-03**|**L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression**|Yongqi Zhai et.al.|[2504.02560](http://arxiv.org/abs/2504.02560)|null|
 |**2025-04-03**|**Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**|Cecilia Curreli et.al.|[2501.06035](http://arxiv.org/abs/2501.06035)|null|
 |**2025-04-02**|**Focal Mechanism Uncertainty Quantification In Ground Motion Simulations Of Le Teil Earthquake**|Valeria Soto et.al.|[2504.01868](http://arxiv.org/abs/2504.01868)|null|
@@ -173,12 +174,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-07-07**|**Rethinking Closed-loop Planning Framework for Imitation-based Model Integrating Prediction and Planning**|Jiayu Guo et.al.|[2407.05376](http://arxiv.org/abs/2407.05376)|null|
 |**2024-07-02**|**ReliaAvatar: A Robust Real-Time Avatar Animator with Integrated Motion Prediction**|Bo Qian et.al.|[2407.02129](http://arxiv.org/abs/2407.02129)|null|
 
-<p align=right>(<a href=#automatically-updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250508>back to top</a>)</p>
 
 ## Low Level
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait**|Feng Liu et.al.|[2505.04616](http://arxiv.org/abs/2505.04616)|null|
 |**2025-05-03**|**Multi-Scale Target-Aware Representation Learning for Fundus Image Enhancement**|Haofan Wu et.al.|[2505.01831](http://arxiv.org/abs/2505.01831)|null|
 |**2025-05-03**|**Solving Copyright Infringement on Short Video Platforms: Novel Datasets and an Audio Restoration Deep Learning Pipeline**|Minwoo Oh et.al.|[2504.21772](http://arxiv.org/abs/2504.21772)|null|
 |**2025-05-02**|**Deblurring fission fragment mass distributions**|Pierre Nzabahimana et.al.|[2505.01294](http://arxiv.org/abs/2505.01294)|null|
@@ -336,13 +338,61 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
 |**2024-12-12**|**Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression**|Ali Mollaahmadi Dehaghi et.al.|[2412.08912](http://arxiv.org/abs/2412.08912)|**[link](https://github.com/alimd94/DiQP)**|
 
-<p align=right>(<a href=#automatically-updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250508>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|null|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
+|**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
+|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578](http://arxiv.org/abs/2505.04578)|null|
+|**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521](http://arxiv.org/abs/2505.04521)|null|
+|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
+|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/abs/2505.04481)|null|
+|**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
+|**2025-05-07**|**Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration**|Shigeki Karita et.al.|[2505.04457](http://arxiv.org/abs/2505.04457)|null|
+|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445](http://arxiv.org/abs/2505.04445)|null|
+|**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
+|**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/abs/2505.04416)|null|
+|**2025-05-07**|**YABLoCo: Yet Another Benchmark for Long Context Code Generation**|Aidar Valeev et.al.|[2505.04406](http://arxiv.org/abs/2505.04406)|null|
+|**2025-05-07**|**Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters**|David Exler et.al.|[2505.04393](http://arxiv.org/abs/2505.04393)|null|
+|**2025-05-07**|**The Aloe Family Recipe for Open and Specialized Healthcare LLMs**|Dario Garcia-Gasulla et.al.|[2505.04388](http://arxiv.org/abs/2505.04388)|null|
+|**2025-05-07**|**CDE-Mapper: Using Retrieval-Augmented Language Models for Linking Clinical Data Elements to Controlled Vocabularies**|Komal Gilani et.al.|[2505.04365](http://arxiv.org/abs/2505.04365)|null|
+|**2025-05-07**|**Benchmarking LLMs' Swarm intelligence**|Kai Ruan et.al.|[2505.04364](http://arxiv.org/abs/2505.04364)|**[link](https://github.com/x66ccff/swarmbench)**|
+|**2025-05-07**|**GASCADE: Grouped Summarization of Adverse Drug Event for Enhanced Cancer Pharmacovigilance**|Sofia Jamil et.al.|[2505.04284](http://arxiv.org/abs/2505.04284)|null|
+|**2025-05-07**|**Weaponizing Language Models for Cybersecurity Offensive Operations: Automating Vulnerability Assessment Report Validation; A Review Paper**|Abdulrahman S Almuhaidib et.al.|[2505.04265](http://arxiv.org/abs/2505.04265)|null|
+|**2025-05-07**|**Steerable Chatbots: Personalizing LLMs with Preference-Based Activation Steering**|Jessica Y. Bo et.al.|[2505.04260](http://arxiv.org/abs/2505.04260)|null|
+|**2025-05-07**|**LLM-Independent Adaptive RAG: Let the Question Speak for Itself**|Maria Marina et.al.|[2505.04253](http://arxiv.org/abs/2505.04253)|null|
+|**2025-05-07**|**A Large Language Model for Feasible and Diverse Population Synthesis**|Sung Yoo Lim et.al.|[2505.04196](http://arxiv.org/abs/2505.04196)|null|
+|**2025-05-07**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195](http://arxiv.org/abs/2505.04195)|null|
+|**2025-05-07**|**On-Device LLM for Context-Aware Wi-Fi Roaming**|Ju-Hyung Lee et.al.|[2505.04174](http://arxiv.org/abs/2505.04174)|null|
+|**2025-05-07**|**Large Language Models are often politically extreme, usually ideologically inconsistent, and persuasive even in informational contexts**|Nouar Aldahoul et.al.|[2505.04171](http://arxiv.org/abs/2505.04171)|null|
+|**2025-05-07**|**Can Language Models Understand Social Behavior in Clinical Conversations?**|Manas Satish Bedmutha et.al.|[2505.04152](http://arxiv.org/abs/2505.04152)|null|
+|**2025-05-07**|**Unmasking the Canvas: A Dynamic Benchmark for Image Generation Jailbreaking and LLM Content Safety**|Variath Madhupal Gautham Nair et.al.|[2505.04146](http://arxiv.org/abs/2505.04146)|null|
+|**2025-05-07**|**NAMO-LLM: Efficient Navigation Among Movable Obstacles with Large Language Model Guidance**|Yuqing Zhang et.al.|[2505.04141](http://arxiv.org/abs/2505.04141)|null|
+|**2025-05-07**|**Enhancing Granular Sentiment Classification with Chain-of-Thought Prompting in Large Language Models**|Vihaan Miriyala et.al.|[2505.04135](http://arxiv.org/abs/2505.04135)|null|
+|**2025-05-07**|**Alpha Excel Benchmark**|David Noever et.al.|[2505.04110](http://arxiv.org/abs/2505.04110)|null|
+|**2025-05-07**|**LLMs' Suitability for Network Security: A Case Study of STRIDE Threat Modeling**|AbdulAziz AbdulGhaffar et.al.|[2505.04101](http://arxiv.org/abs/2505.04101)|null|
+|**2025-05-07**|**An Empirical Study of OpenAI API Discussions on Stack Overflow**|Xiang Chen et.al.|[2505.04084](http://arxiv.org/abs/2505.04084)|null|
+|**2025-05-07**|**LLM-e Guess: Can LLMs Capabilities Advance Without Hardware Progress?**|Teddy Foley et.al.|[2505.04075](http://arxiv.org/abs/2505.04075)|null|
+|**2025-05-07**|**Natural Language Generation in Healthcare: A Review of Methods and Applications**|Mengxian Lyu et.al.|[2505.04073](http://arxiv.org/abs/2505.04073)|null|
+|**2025-05-07**|**Advancing and Benchmarking Personalized Tool Invocation for LLMs**|Xu Huang et.al.|[2505.04072](http://arxiv.org/abs/2505.04072)|**[link](https://github.com/hyfshadow/ptbench)**|
+|**2025-05-07**|**Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications**|Yuanai Xie et.al.|[2505.04068](http://arxiv.org/abs/2505.04068)|null|
+|**2025-05-07**|**BuildingBlock: A Hybrid Approach for Structured Building Generation**|Junming Huang et.al.|[2505.04051](http://arxiv.org/abs/2505.04051)|null|
+|**2025-05-07**|**Identification and Optimization of Redundant Code Using Large Language Models**|Shamse Tasnim Cynthia et.al.|[2505.04040](http://arxiv.org/abs/2505.04040)|null|
+|**2025-05-06**|**Prism: Unleashing GPU Sharing for Cost-Efficient Multi-LLM Serving**|Shan Yu et.al.|[2505.04021](http://arxiv.org/abs/2505.04021)|null|
+|**2025-05-06**|**SLOT: Structuring the Output of Large Language Models**|Darren Yow-Bang Wang et.al.|[2505.04016](http://arxiv.org/abs/2505.04016)|null|
+|**2025-05-06**|**Can Large Language Models Predict Parallel Code Performance?**|Gregory Bolet et.al.|[2505.03988](http://arxiv.org/abs/2505.03988)|null|
+|**2025-05-06**|**LogiDebrief: A Signal-Temporal Logic based Automated Debriefing Approach with Large Language Models Integration**|Zirong Chen et.al.|[2505.03985](http://arxiv.org/abs/2505.03985)|null|
+|**2025-05-06**|**A Reasoning-Focused Legal Retrieval Benchmark**|Lucia Zheng et.al.|[2505.03970](http://arxiv.org/abs/2505.03970)|null|
+|**2025-05-06**|**MARCO: A Multi-Agent System for Optimizing HPC Code Generation Using Large Language Models**|Asif Rahman et.al.|[2505.03906](http://arxiv.org/abs/2505.03906)|null|
+|**2025-05-06**|**Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub**|Ruiyin Li et.al.|[2505.03901](http://arxiv.org/abs/2505.03901)|null|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678](http://arxiv.org/abs/2505.03678)|null|
 |**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|null|
 |**2025-05-06**|**PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing**|Yiping Xie et.al.|[2505.03621](http://arxiv.org/abs/2505.03621)|null|
@@ -1843,7 +1893,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-03-19**|**When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?**|Jingyi Chen et.al.|[2503.15231](http://arxiv.org/abs/2503.15231)|null|
 |**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|**[link](https://github.com/seohyunwoo-0407/gar)**|
 
-<p align=right>(<a href=#automatically-updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250508>back to top</a>)</p>
 
 ## Agent
 
@@ -1947,7 +1997,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-02-01**|**Shape from Semantics: 3D Shape Generation from Multi-View Semantics**|Liangchen Li et.al.|[2502.00360](http://arxiv.org/abs/2502.00360)|null|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
 
-<p align=right>(<a href=#automatically-updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250508>back to top</a>)</p>
 
 Notes: 
 
