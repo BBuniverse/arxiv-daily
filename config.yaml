@@ -26,12 +26,15 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Agent":
-        filters: ["image restoration", "agent"]
+        filters: ["Image Restoration", "Agent"]
     "LLM":
-        filters: ["large language model"]
+        filters: ["Large Language Model"]
     "Motion": 
-        filters: ["motion prediction", "human motion prediction", "hand motion prediction"]
+        filters: ["Motion Prediction",
+                  "Human Motion Prediction",
+                  "Hand Motion Prediction"]
     "IQA":
         filters: ["IQA", "IAA"]
     "Low Level":
-        filters: ["image restoration", "video restoration"]
+        filters: ["Image Restoration",
+                  "Video Restoration"]
