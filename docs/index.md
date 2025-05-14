@@ -346,10 +346,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783](http://arxiv.org/abs/2505.08783)|null|
-|**2025-05-13**|**HealthBench: Evaluating Large Language Models Towards Improved Human Health**|Rahul K. Arora et.al.|[2505.08775](http://arxiv.org/abs/2505.08775)|null|
+|**2025-05-13**|**HealthBench: Evaluating Large Language Models Towards Improved Human Health**|Rahul K. Arora et.al.|[2505.08775](http://arxiv.org/abs/2505.08775)|**[link](https://github.com/openai/simple-evals)**|
 |**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
 |**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|
-|**2025-05-13**|**DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models**|Xiaoyang Chen et.al.|[2505.08744](http://arxiv.org/abs/2505.08744)|null|
+|**2025-05-13**|**DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models**|Xiaoyang Chen et.al.|[2505.08744](http://arxiv.org/abs/2505.08744)|**[link](https://github.com/deepmathllm/deepmath)**|
 |**2025-05-13**|**Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies**|Xiaoliang Luo et.al.|[2505.08739](http://arxiv.org/abs/2505.08739)|null|
 |**2025-05-13**|**NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context**|Ben Yao et.al.|[2505.08734](http://arxiv.org/abs/2505.08734)|null|
 |**2025-05-13**|**Securing RAG: A Risk Assessment and Mitigation Framework**|Lukas Ammann et.al.|[2505.08728](http://arxiv.org/abs/2505.08728)|null|
@@ -383,14 +383,14 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-05-13**|**Towards Contamination Resistant Benchmarks**|Rahmatullah Musawi et.al.|[2505.08389](http://arxiv.org/abs/2505.08389)|null|
 |**2025-05-13**|**Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation**|Enci Zhang et.al.|[2505.08364](http://arxiv.org/abs/2505.08364)|null|
 |**2025-05-13**|**Alignment Drift in CEFR-prompted LLMs for Interactive Spanish Tutoring**|Mina Almasi et.al.|[2505.08351](http://arxiv.org/abs/2505.08351)|null|
-|**2025-05-13**|**Benchmarking AI scientists in omics data-driven biological research**|Erpai Luo et.al.|[2505.08341](http://arxiv.org/abs/2505.08341)|null|
+|**2025-05-13**|**Benchmarking AI scientists in omics data-driven biological research**|Erpai Luo et.al.|[2505.08341](http://arxiv.org/abs/2505.08341)|**[link](https://github.com/eperluo/baisbench)**|
 |**2025-05-13**|**Evaluating the Effectiveness of Black-Box Prompt Optimization as the Scale of LLMs Continues to Grow**|Ziyu Zhou et.al.|[2505.08303](http://arxiv.org/abs/2505.08303)|null|
 |**2025-05-13**|**A Practical Introduction to Deep Reinforcement Learning**|Yinghan Sun et.al.|[2505.08295](http://arxiv.org/abs/2505.08295)|null|
 |**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|
 |**2025-05-13**|**LLM-Based Detection of Tangled Code Changes for Higher-Quality Method-Level Bug Datasets**|Md Nahidul Islam Opu et.al.|[2505.08263](http://arxiv.org/abs/2505.08263)|null|
 |**2025-05-13**|**Enhancing Cache-Augmented Generation (CAG) with Adaptive Contextual Compression for Scalable Knowledge Integration**|Rishabh Agrawal et.al.|[2505.08261](http://arxiv.org/abs/2505.08261)|null|
 |**2025-05-13**|**Evaluating LLM Metrics Through Real-World Capabilities**|Justin K Miller et.al.|[2505.08253](http://arxiv.org/abs/2505.08253)|null|
-|**2025-05-13**|**Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement**|Haoran Ye et.al.|[2505.08245](http://arxiv.org/abs/2505.08245)|null|
+|**2025-05-13**|**Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement**|Haoran Ye et.al.|[2505.08245](http://arxiv.org/abs/2505.08245)|**[link](https://github.com/valuebyte-ai/awesome-llm-psychometrics)**|
 |**2025-05-13**|**A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection in LLM Outputs**|Artem Shelmanov et.al.|[2505.08200](http://arxiv.org/abs/2505.08200)|null|
 |**2025-05-13**|**Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations**|Jinming Hu et.al.|[2505.08195](http://arxiv.org/abs/2505.08195)|null|
 |**2025-05-13**|**CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding**|Wenxuan Ma et.al.|[2505.08194](http://arxiv.org/abs/2505.08194)|null|
