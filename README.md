@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Automatically Updated on 2025.05.23
+## Automatically Updated on 2025.05.24
 Current Search Keywords: `Motion`, `Low Level`, `LLM`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -185,14 +185,14 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-07-07**|**Rethinking Closed-loop Planning Framework for Imitation-based Model Integrating Prediction and Planning**|Jiayu Guo et.al.|[2407.05376](http://arxiv.org/abs/2407.05376)|null|
 |**2024-07-02**|**ReliaAvatar: A Robust Real-Time Avatar Animator with Integrated Motion Prediction**|Bo Qian et.al.|[2407.02129](http://arxiv.org/abs/2407.02129)|null|
 
-<p align=right>(<a href=#automatically-updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250524>back to top</a>)</p>
 
 ## Low Level
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
-|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|null|
+|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|**[link](https://github.com/Algolzw/FoD)**|
 |**2025-05-22**|**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**|Yuetong Liu et.al.|[2505.16479](http://arxiv.org/abs/2505.16479)|null|
 |**2025-05-22**|**Joint Flow And Feature Refinement Using Attention For Video Restoration**|Ranjith Merugu et.al.|[2505.16434](http://arxiv.org/abs/2505.16434)|null|
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
@@ -373,7 +373,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
 |**2024-12-12**|**Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression**|Ali Mollaahmadi Dehaghi et.al.|[2412.08912](http://arxiv.org/abs/2412.08912)|**[link](https://github.com/alimd94/DiQP)**|
 
-<p align=right>(<a href=#automatically-updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250524>back to top</a>)</p>
 
 ## LLM
 
@@ -413,7 +413,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-05-22**|**Don't "Overthink" Passage Reranking: Is Reasoning Truly Necessary?**|Nour Jedidi et.al.|[2505.16886](http://arxiv.org/abs/2505.16886)|null|
 |**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881](http://arxiv.org/abs/2505.16881)|null|
 |**2025-05-22**|**MPO: Multilingual Safety Alignment via Reward Gap Optimization**|Weixiang Zhao et.al.|[2505.16869](http://arxiv.org/abs/2505.16869)|null|
-|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|null|
+|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
 |**2025-05-22**|**R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**|Yibo Wang et.al.|[2505.16838](http://arxiv.org/abs/2505.16838)|null|
 |**2025-05-22**|**SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**|Shuang Sun et.al.|[2505.16834](http://arxiv.org/abs/2505.16834)|null|
 |**2025-05-22**|**Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs**|Xiaoyu Xu et.al.|[2505.16831](http://arxiv.org/abs/2505.16831)|null|
@@ -2475,13 +2475,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-03-19**|**When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?**|Jingyi Chen et.al.|[2503.15231](http://arxiv.org/abs/2503.15231)|null|
 |**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|**[link](https://github.com/seohyunwoo-0407/gar)**|
 
-<p align=right>(<a href=#automatically-updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250524>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|null|
+|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|**[link](https://github.com/Algolzw/FoD)**|
 |**2025-05-22**|**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**|Yuetong Liu et.al.|[2505.16479](http://arxiv.org/abs/2505.16479)|null|
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
 |**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|null|
@@ -2602,7 +2602,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-02-01**|**Shape from Semantics: 3D Shape Generation from Multi-View Semantics**|Liangchen Li et.al.|[2502.00360](http://arxiv.org/abs/2502.00360)|null|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
 
-<p align=right>(<a href=#automatically-updated-on-20250523>back to top</a>)</p>
+<p align=right>(<a href=#automatically-updated-on-20250524>back to top</a>)</p>
 
 Notes: 
 

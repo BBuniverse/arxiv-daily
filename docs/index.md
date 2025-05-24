@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Automatically Updated on 2025.05.23
+## Automatically Updated on 2025.05.24
 Current Search Keywords: `Motion`, `Low Level`, `LLM`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -184,7 +184,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
-|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|null|
+|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|**[link](https://github.com/Algolzw/FoD)**|
 |**2025-05-22**|**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**|Yuetong Liu et.al.|[2505.16479](http://arxiv.org/abs/2505.16479)|null|
 |**2025-05-22**|**Joint Flow And Feature Refinement Using Attention For Video Restoration**|Ranjith Merugu et.al.|[2505.16434](http://arxiv.org/abs/2505.16434)|null|
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
@@ -403,7 +403,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-05-22**|**Don't "Overthink" Passage Reranking: Is Reasoning Truly Necessary?**|Nour Jedidi et.al.|[2505.16886](http://arxiv.org/abs/2505.16886)|null|
 |**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881](http://arxiv.org/abs/2505.16881)|null|
 |**2025-05-22**|**MPO: Multilingual Safety Alignment via Reward Gap Optimization**|Weixiang Zhao et.al.|[2505.16869](http://arxiv.org/abs/2505.16869)|null|
-|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|null|
+|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
 |**2025-05-22**|**R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**|Yibo Wang et.al.|[2505.16838](http://arxiv.org/abs/2505.16838)|null|
 |**2025-05-22**|**SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**|Shuang Sun et.al.|[2505.16834](http://arxiv.org/abs/2505.16834)|null|
 |**2025-05-22**|**Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs**|Xiaoyu Xu et.al.|[2505.16831](http://arxiv.org/abs/2505.16831)|null|
@@ -2469,7 +2469,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|null|
+|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|**[link](https://github.com/Algolzw/FoD)**|
 |**2025-05-22**|**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**|Yuetong Liu et.al.|[2505.16479](http://arxiv.org/abs/2505.16479)|null|
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
 |**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|null|
